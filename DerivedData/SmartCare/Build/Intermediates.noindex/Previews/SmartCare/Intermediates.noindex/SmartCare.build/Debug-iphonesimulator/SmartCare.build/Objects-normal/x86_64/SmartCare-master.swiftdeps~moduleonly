@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "3503193d380889623ecf0871d0ab19b1"
+build_time: [1614312609, 245880000]
+inputs:
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/App/ContentView.swift": [1614312609, 168789238]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/Model/WardModel.swift": [1614307086, 404127568]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/View/StartButtonView.swift": [1614304164, 548746137]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/App/OnBoardingView.swift": [1614308476, 599874306]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/View/SelectButtonView.swift": [1614276157, 425248031]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/View/WardCareView.swift": [1614312468, 47231019]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/Data/WardData.swift": [1614308047, 960171822]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/View/Homepage.swift": [1614312468, 63079154]
+  "/Users/art.nirawit/Downloads/SmartCarePlanApp/SmartCare/SmartCare/App/SmartCareApp.swift": [1614309357, 233163880]
