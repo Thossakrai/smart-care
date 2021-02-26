@@ -12,7 +12,7 @@ import SwiftUI
 // Mark : Body
 struct ContentView: View {
     var body: some View {
-        WardCareView(ward: Ward)
+        WardCareView(ward: WardsData[0])
     }
 }
 
